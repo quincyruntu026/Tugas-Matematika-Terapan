@@ -1,1 +1,1 @@
-# sharing-github
+# Ini adalah tugas matematika terapan
